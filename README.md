@@ -6,4 +6,6 @@ bootstrap =>
 
 navbar
 rails g controller home index 
-font awesome
+font awesome =>
+
+devise =>
